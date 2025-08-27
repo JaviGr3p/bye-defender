@@ -1,4 +1,4 @@
-# Bye Defender
+# Bye Defender - By J4gr3p
 
 [English](#english) | [Español](#español)
 
