@@ -33,18 +33,6 @@ From the `bypassed` directory, run:
 GOOS=windows GOARCH=amd64 go build -o passed.exe
 ```
 
-### 📁 Project Structure
-
-```
-bye-defender/
-├── README.md
-├── LICENSE
-└── bypassed/
-    ├── go.mod
-    ├── main.go
-    └── passed.exe (after compilation)
-```
-
 ### 🛡️ Security Considerations
 
 - **Always run this tool in a controlled environment**
@@ -56,11 +44,7 @@ bye-defender/
 
 Contributions are welcome. Please:
 
-1. Fork the project
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+- Fork the project
 
 ### ⚖️ Disclaimer
 
