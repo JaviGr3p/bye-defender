@@ -27,7 +27,7 @@ cd bye-defender
 
 ### 🔨 Compilation
 
-From the `passed` directory, run:
+From the `bypassed` directory, run:
 
 ```bash
 GOOS=windows GOARCH=amd64 go build -o passed.exe
@@ -39,7 +39,7 @@ GOOS=windows GOARCH=amd64 go build -o passed.exe
 bye-defender/
 ├── README.md
 ├── LICENSE
-└── passed/
+└── bypassed/
     ├── go.mod
     ├── main.go
     └── passed.exe (after compilation)
